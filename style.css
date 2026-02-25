@@ -1,0 +1,15 @@
+        body { 
+            font-family: Arial; 
+            text-align: center; }
+        .task { 
+            padding: 10px; 
+            border: 1px solid #ddd; 
+            margin: 5px; }
+        .done { 
+            color: gray; 
+            text-decoration: 
+            line-through; }
+        .highlight { 
+            background: yellow; 
+            color: black; 
+            font-weight: bold; }
